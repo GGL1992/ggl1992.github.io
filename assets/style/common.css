@@ -1,0 +1,24 @@
+:root {
+  --gradient-start-color: #41d1ff;
+  --gradient-end-color: #bd34fe;
+  --bg-color: #1b1b1f;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+a,
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
