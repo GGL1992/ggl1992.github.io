@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "xw-wk";
+  src: local("xw-wk"), url("../font/LXGWWenKaiMono-Regular.ttf");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "xw-wk";
+  src: local("xw-wk"), url("../font/LXGWWenKaiMono-Bold.ttf");
+  font-weight: 700;
+  font-display: swap;
+}

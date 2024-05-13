@@ -1,0 +1,14 @@
+@media screen and (max-width: 900px) {
+  .g-poem__module--title,
+  .g-poem__module--subtitle {
+    transform: translateX(-10px);
+  }
+  .g-poem__module--subtitle span {
+    display: inline-block;
+    transform: translateX(5px);
+  }
+
+  .g-poem-s__content {
+    transform: translateX(-15px);
+  }
+}

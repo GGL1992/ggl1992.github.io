@@ -1,0 +1,53 @@
+@import "../common.css";
+
+body {
+  background-color: var(--bg-color);
+  font-family: "xw-wk", songti sc, serif;
+  color: #d1d5db;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.g-poem__section a {
+  color: #d1d5db;
+}
+
+.g-poem__container {
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.g-poem__section--title {
+  color: #c0392b;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+
+.g-poem__content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.g-poem__module {
+  writing-mode: vertical-lr;
+  border-top: 1px solid #d1d5db;
+  box-sizing: border-box;
+  padding: 10px 5px 0 5px;
+  line-height: 1.5em;
+  margin: 0 10px 20px 10px;
+}
+
+.g-poem__module--title {
+  letter-spacing: 5px;
+}
+
+.g-poem__module--subtitle {
+  font-size: 12px;
+  color: #abadb1;
+}
+
+@media screen and (max-width: 900px) {
+  .g-poem__section {
+    font-size: 20px;
+  }
+}
