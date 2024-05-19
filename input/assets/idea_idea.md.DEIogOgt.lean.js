@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as a,a1 as t}from"./chunks/framework.EKgu3izQ.js";const f=JSON.parse('{"title":"思想与品德","description":"","frontmatter":{},"headers":[],"relativePath":"idea/idea.md","filePath":"idea/idea.md"}'),_={name:"idea/idea.md"},o=t("",44),i=[o];function r(d,s,c,n,l,h){return a(),e("div",null,i)}const u=p(_,[["render",r]]);export{f as __pageData,u as default};

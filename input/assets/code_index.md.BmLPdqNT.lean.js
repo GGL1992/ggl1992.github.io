@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a1 as o}from"./chunks/framework.EKgu3izQ.js";const f=JSON.parse('{"title":"编程知识汇总","description":"","frontmatter":{},"headers":[],"relativePath":"code/index.md","filePath":"code/index.md"}'),r={name:"code/index.md"},n=o("",6),h=[n];function i(c,d,s,l,_,m){return t(),e("div",null,h)}const u=a(r,[["render",i]]);export{f as __pageData,u as default};

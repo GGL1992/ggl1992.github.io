@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a1 as o}from"./chunks/framework.EKgu3izQ.js";const u=JSON.parse('{"title":"学习法","description":"","frontmatter":{},"headers":[],"relativePath":"study/core.md","filePath":"study/core.md"}'),p={name:"study/core.md"},r=o("",11),s=[r];function _(c,n,d,i,l,h){return a(),t("div",null,s)}const f=e(p,[["render",_]]);export{u as __pageData,f as default};

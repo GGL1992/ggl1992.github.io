@@ -1,0 +1,1 @@
+import{_ as a,c as e,o,a1 as t}from"./chunks/framework.EKgu3izQ.js";const f=JSON.parse('{"title":"诗词背诵","description":"","frontmatter":{},"headers":[],"relativePath":"chinese/poem.md","filePath":"chinese/poem.md"}'),r={name:"chinese/poem.md"},h=t("",16),i=[h];function n(l,m,p,s,c,d){return o(),e("div",null,i)}const u=a(r,[["render",n]]);export{f as __pageData,u as default};
